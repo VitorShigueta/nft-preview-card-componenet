@@ -57,3 +57,4 @@ I learned how to use overlay and some variants.
 
 - Frontend Mentor - [@VitorShigueta](https://www.frontendmentor.io/profile/VitorShigueta)
 
+# nft-preview-card-componenet
